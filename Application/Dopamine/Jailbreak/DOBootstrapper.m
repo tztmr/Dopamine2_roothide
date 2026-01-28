@@ -887,6 +887,11 @@ Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
+URIs: https://apt.tztright.top/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
 URIs: https://roothide.github.io/procursus\n\
 Suites: iphoneos-arm64e/%d\n\
 Components: main\n\
@@ -911,6 +916,7 @@ deb https://repo.chariz.com/ ./\n\
 deb https://yourepo.com/ ./\n\
 deb https://havoc.app/ ./\n\
 deb https://roothide.github.io/ ./\n\
+deb https://apt.tztright.top/ ./\n\
 deb https://roothide.github.io/procursus iphoneos-arm64e/%d main\n\
 \n\
 "
